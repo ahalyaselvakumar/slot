@@ -36,7 +36,7 @@ Execute the program using runserver command.
 <hr>
 <table align="center" width="500" cellspacing="2" cellpadding="4"
 border="5" bgcolor="violet">
-<caption><b>SLOT TIME TABLE - AHALYA S(23002896)</b>
+<caption><b>SLOT TIME TABLE - JEGATHEESWARI R(23013697)</b>
 </caption>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
